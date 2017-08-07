@@ -13,6 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneTracker.iOS", "PhoneTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneTracker.UWP", "PhoneTracker\PhoneTracker.UWP\PhoneTracker.UWP.csproj", "{FB24C5D7-6FEE-4BA1-86F0-7E93F0DDFBFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8A13442-56BB-4EEC-8D37-2EFF863717F1}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		PhoneTracker\PhoneTracker\PhoneTracker.projitems*{297e60b9-e7ae-4e0f-9b6a-75827e1c6a0d}*SharedItemsImports = 13

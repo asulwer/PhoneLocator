@@ -1,0 +1,1 @@
+start/stop background process, on phone, to peridodically send gps coordiniates to webserver for viewing on webpage map
